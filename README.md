@@ -68,6 +68,6 @@ I use Codex, Claude Code, and Cursor to accelerate implementation, with explicit
 
 ---
 
-**Let's build something useful.** I'm looking for roles in **Forward-Deployed Engineering, Applied Data Science, and AI Product** starting in 2027.
+**Let's build something useful.** I'm looking for roles in **Forward Deployed Engineering, Applied Data Science, and Associate Product Management (APM) / AI Product** starting in 2027. I'm also open to Data Engineering and applied AI roles focused on integrations and delivery, with flexibility for U.S. relocation and travel.
 
 Outside engineering, I make R&B, hip-hop, and soul as **JEdoubleF911**. [Explore both sides →](https://jeffge.dev)
