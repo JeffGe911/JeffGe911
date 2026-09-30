@@ -32,9 +32,11 @@ Led a five-model comparison for California home-price prediction, using geospati
 
 ### [DuoSky · 双辰](https://duosky.app) — Founder & Product Lead · August 2026–present
 
-A trilingual BaZi × Western astrology product combining deterministic calculation, explainable readings, global place data, and shareable geographic portraits.
+A live, trilingual BaZi × Western astrology product that turns birth details into layered, explainable readings and shareable birthplace portraits.
 
-- Owned scope, architecture, UX, validation, and release decisions; shipped the live product on **Cloudflare Workers**.
+- Owned product scope, architecture, UX, validation, and release decisions; shipped on **Cloudflare Workers**.
+- Designed progressive input and reading depth: start with a birth date, add time and place for precision, and explicitly leave time-dependent conclusions open when birth time is unknown.
+- Built interactive chart explanations and side-by-side evidence comparisons, plus shareable portraits that omit names, birth dates, and raw birth times.
 - Built birthplace resolution covering **170,949 places across 246 countries and territories**, with historical timezone handling and 256 lazy-loaded data shards.
 - Added GIS-based city portraits and geometry fallbacks; built regression coverage across **720 chart profiles and 5,760 yearly cases**. These are test-coverage counts.
 
