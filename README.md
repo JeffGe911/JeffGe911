@@ -2,7 +2,7 @@
 
 ### AI · Data · Product Builder
 
-I turn ambiguous requirements into systems that run — connecting data pipelines, backend APIs, applied AI, and product experience. I've built healthcare monitoring infrastructure, automated semiconductor data workflows, and taken my own product from concept to a live beta.
+I turn ambiguous requirements into systems that run. I have been working on connecting data pipelines, backend APIs, applied AI, and product experience. I've built healthcare monitoring infrastructure, automated semiconductor data workflows, and taken my own product from concept to a live beta.
 
 **USC M.S. Spatial Data Science, expected December 2026 · Los Angeles · Open to 2027 full-time roles**
 
