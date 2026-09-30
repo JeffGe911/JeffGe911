@@ -8,25 +8,7 @@ I turn ambiguous requirements into systems that run. I have been working on conn
 
 [Portfolio](https://jeffge.dev) · [LinkedIn](https://www.linkedin.com/in/jeff911) · [Email](mailto:jeff152152@gmail.com) · [DuoSky live](https://duosky.app)
 
-## Engineering in practice
-
-**xHealth Group — Summer AI Engineering Intern · June–August 2026**
-
-Owned an always-on wearable-monitoring platform from problem framing to GCP deployment: self-service OAuth, ingestion of 6+ biometric streams, canonical data models, scheduled processing, and explainable care-team alerts.
-
-- Migrated SQLite to PostgreSQL with **zero behavior drift across 398,802 synthetic evaluation readings and 166 alerts**, backed by row-level parity and a frozen evaluation fingerprint.
-- Built versioned JSON contracts for a four-project ecosystem, encrypted token storage, least-privilege access, and **300+ automated tests**, including checks inside the deployed container images.
-- Built the AI-CRM analytics and decision loop: scheduling → measurement → enrollment attribution → next-best actions → feedback, with organization-scoped APIs and small-cell privacy controls.
-- Researched personalized anomaly detection with cross-signal corroboration and conformal scoring, using patient-level splits and bootstrap confidence intervals. This was research evaluation, not a claim of clinical validation.
-
-**UNIM Innovation — Data Science Intern · June–August 2025**
-
-- Built reproducible Python/SQL workflows over **50K+ wafer-test samples and 270+ weekly batches**, supporting manufacturing analysis and forecasting.
-- Automated raw test-archive parsing into ERP-ready outputs, preserving lot, wafer, and BIN granularity; reduced manual processing by **~90%** and made the workflow usable by Finance and Operations.
-
-**IDXExchange — Data Scientist (Internship) · January–April 2026**
-
-Led a five-model comparison for California home-price prediction, using geospatial features and forward holdout validation; selected XGBoost with **R² = 0.8843**.
+**Explore my work:** [Product & UX — DuoSky](https://duosky.app) · [Data systems — Health Pipeline](https://github.com/JeffGe911/Health-Pipeline-Prototype) · [Agent workflows — AIvestor](https://github.com/JeffGe911/AIvestor-AuriteAI-Project)
 
 ## Selected builds
 
@@ -56,6 +38,26 @@ Built User Preference and Portfolio Optimization agents in a five-person multi-a
 **Python · LangChain · LLM APIs · FRED · Agent orchestration**
 
 I also build spatial ML workflows: **H3-based Los Angeles crash-hotspot forecasting**, time-based model evaluation, and ArcGIS prediction maps.
+
+## Engineering in practice
+
+**xHealth Group — Summer AI Engineering Intern · June–August 2026**
+
+Owned an always-on wearable-monitoring platform from problem framing to GCP deployment: self-service OAuth, ingestion of 6+ biometric streams, canonical data models, scheduled processing, and explainable care-team alerts.
+
+- Migrated SQLite to PostgreSQL with **zero behavior drift across 398,802 synthetic evaluation readings and 166 alerts**, backed by row-level parity and a frozen evaluation fingerprint.
+- Built versioned JSON contracts for a four-project ecosystem, encrypted token storage, least-privilege access, and **300+ automated tests**, including checks inside the deployed container images.
+- Built the AI-CRM analytics and decision loop: scheduling → measurement → enrollment attribution → next-best actions → feedback, with organization-scoped APIs and small-cell privacy controls.
+- Researched personalized anomaly detection with cross-signal corroboration and conformal scoring, using patient-level splits and bootstrap confidence intervals. This was research evaluation, not a claim of clinical validation.
+
+**UNIM Innovation — Data Science Intern · June–August 2025**
+
+- Built reproducible Python/SQL workflows over **50K+ wafer-test samples and 270+ weekly batches**, supporting manufacturing analysis and forecasting.
+- Automated raw test-archive parsing into ERP-ready outputs, preserving lot, wafer, and BIN granularity; reduced manual processing by **~90%** and made the workflow usable by Finance and Operations.
+
+**IDXExchange — Data Scientist (Internship) · January–April 2026**
+
+Led a five-model comparison for California home-price prediction, using geospatial features and forward holdout validation; selected XGBoost with **R² = 0.8843**.
 
 ## Tools I work with
 
