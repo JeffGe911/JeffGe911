@@ -1,16 +1,16 @@
-# Hi, I'm Jeff Ge
+# Hi, I'm Yuqi (Jeff) Ge
 
-### AI & Data Engineer · Product Builder
+### AI · Data · Product Builder
 
 I turn ambiguous requirements into systems that run — connecting data pipelines, backend APIs, applied AI, and product experience. I've built healthcare monitoring infrastructure, automated semiconductor data workflows, and taken my own product from concept to a live beta.
 
-**USC M.S. Data Science (Spatial Track), expected December 2026 · Los Angeles · Open to 2027 full-time roles**
+**USC M.S. Spatial Data Science, expected December 2026 · Los Angeles · Open to 2027 full-time roles**
 
 [Portfolio](https://jeffge.dev) · [LinkedIn](https://www.linkedin.com/in/jeff911) · [Email](mailto:jeff152152@gmail.com) · [DuoSky live](https://duosky.app)
 
 ## Engineering in practice
 
-**xHealth Group — Summer Engineering Intern · 2026**
+**xHealth Group — Summer AI Engineering Intern · June–August 2026**
 
 Owned an always-on wearable-monitoring platform from problem framing to GCP deployment: self-service OAuth, ingestion of 6+ biometric streams, canonical data models, scheduled processing, and explainable care-team alerts.
 
@@ -19,18 +19,18 @@ Owned an always-on wearable-monitoring platform from problem framing to GCP depl
 - Built the AI-CRM analytics and decision loop: scheduling → measurement → enrollment attribution → next-best actions → feedback, with organization-scoped APIs and small-cell privacy controls.
 - Researched personalized anomaly detection with cross-signal corroboration and conformal scoring, using patient-level splits and bootstrap confidence intervals. This was research evaluation, not a claim of clinical validation.
 
-**UNIM Innovation — Data Science / Data Engineering Intern · 2025**
+**UNIM Innovation — Data Science Intern · June–August 2025**
 
 - Built reproducible Python/SQL workflows over **50K+ wafer-test samples and 270+ weekly batches**, supporting manufacturing analysis and forecasting.
 - Automated raw test-archive parsing into ERP-ready outputs, preserving lot, wafer, and BIN granularity; reduced manual processing by **~90%** and made the workflow usable by Finance and Operations.
 
-**IDXExchange — Data Scientist Intern · 2026**
+**IDXExchange — Data Scientist (Internship) · January–April 2026**
 
 Led a five-model comparison for California home-price prediction, using geospatial features and forward holdout validation; selected XGBoost with **R² = 0.8843**.
 
 ## Selected builds
 
-### [DuoSky · 双辰](https://github.com/JeffGe911/DuoSky) — founder & solo product builder
+### [DuoSky · 双辰](https://github.com/JeffGe911/DuoSky) — Founder & Product Lead · August 2026–present
 
 A trilingual BaZi × Western astrology product combining deterministic calculation, explainable readings, global place data, and shareable geographic portraits.
 
@@ -68,6 +68,6 @@ I use Codex, Claude Code, and Cursor to accelerate implementation, with explicit
 
 ---
 
-**Let's build something useful.** I'm looking for roles in **Data Engineering, AI Engineering, and Applied ML** starting in 2027.
+**Let's build something useful.** I'm looking for roles in **Forward-Deployed Engineering, Applied Data Science, and AI Product** starting in 2027.
 
 Outside engineering, I make R&B, hip-hop, and soul as **JEdoubleF911**. [Explore both sides →](https://jeffge.dev)
