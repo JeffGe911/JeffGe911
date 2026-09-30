@@ -30,7 +30,7 @@ Led a five-model comparison for California home-price prediction, using geospati
 
 ## Selected builds
 
-### [DuoSky · 双辰](https://github.com/JeffGe911/DuoSky) — Founder & Product Lead · August 2026–present
+### [DuoSky · 双辰](https://duosky.app) — Founder & Product Lead · August 2026–present
 
 A trilingual BaZi × Western astrology product combining deterministic calculation, explainable readings, global place data, and shareable geographic portraits.
 
