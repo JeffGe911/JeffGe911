@@ -1,4 +1,4 @@
-# Hi, I'm Yuqi (Jeff) Ge
+# Hi, I'm Jeff
 
 ### AI · Data · Product Builder
 
