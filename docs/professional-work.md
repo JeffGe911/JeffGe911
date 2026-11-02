@@ -6,7 +6,7 @@ These summaries connect my business and quantitative background to data-system d
 
 ## xHealth wearable-monitoring platform
 
-**Summer AI Engineering Intern · June–August 2026**
+**Summer AI Engineering Intern · June to August 2026**
 
 I independently owned a wearable-monitoring backend from problem framing to GCP deployment, working with a mentor and downstream teammates. The work covered OAuth enrollment, device-data ingestion, canonical models, Python/SQL processing, and structured outputs for a care-team workflow.
 
@@ -41,7 +41,7 @@ I focused on interpretable methods and explicit evaluation boundaries. Retrospec
 
 ## UNIM operational data tools
 
-**Data Science Intern · June–August 2025**
+**Data Science Intern · June to August 2025**
 
 The work began with Finance, Operations, and Sales definitions: part-number mappings, customer/distributor relationships, quantity reconciliation, and forecast-versus-actual reporting.
 
@@ -53,13 +53,13 @@ The ERP-related delivery prepared validated import files; it did not directly po
 
 ## IDXExchange home-price modeling
 
-**Data Scientist (Internship) · January–April 2026**
+**Data Scientist (Internship) · January to April 2026**
 
 I worked on California home-price prediction with a small team, covering property-data preparation, geospatial and statistical features, model comparison, and forward holdout evaluation.
 
 My [spatial AVM pipeline](https://github.com/samvishnevskiy/IDX_Exchange_DS47/blob/main/idx-spatial-avm_JeffGe.py) included forward monthly holdouts and training-only ZIP-level price features. My [authored contribution](https://github.com/samvishnevskiy/IDX_Exchange_DS47/commit/7566136f4ac5ebcbd69d33507d37c1456248a1a9) covered data processing, spatial features, and model evaluation within the [team repository](https://github.com/samvishnevskiy/IDX_Exchange_DS47).
 
-The team's [saved January 2026 holdout results](https://github.com/samvishnevskiy/IDX_Exchange_DS47/blob/main/outputs/tables/model_results_2026-01.csv) report **XGBoost price R² of 0.8843**, with July–December 2025 training data. That result uses the project's price-trimming procedure on the test set. The later team notebook extends the model comparison; I do not claim sole implementation of those additions. These are saved modeling results, not evidence of a deployed valuation service or measured business uplift.
+The team's [saved January 2026 holdout results](https://github.com/samvishnevskiy/IDX_Exchange_DS47/blob/main/outputs/tables/model_results_2026-01.csv) report **XGBoost price R² of 0.8843**, with July to December 2025 training data. That result uses the project's price-trimming procedure on the test set. The later team notebook extends the model comparison; I do not claim sole implementation of those additions. These are saved modeling results, not evidence of a deployed valuation service or measured business uplift.
 
 ## Los Angeles H3 collision analysis
 
