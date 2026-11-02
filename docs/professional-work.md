@@ -57,7 +57,9 @@ The ERP-related delivery prepared validated import files; it did not directly po
 
 I worked on California home-price prediction with a small team, covering property-data preparation, geospatial and statistical features, model comparison, and forward holdout evaluation.
 
-My workflow included forward monthly holdouts and training-only ZIP-level price features, connecting data preparation with model-selection discussions about performance stability and interpretability. A holdout result is a modeling result, not evidence of a deployed valuation service or measured business uplift.
+My [spatial AVM pipeline](https://github.com/samvishnevskiy/IDX_Exchange_DS47/blob/main/idx-spatial-avm_JeffGe.py) included forward monthly holdouts and training-only ZIP-level price features. My [authored contribution](https://github.com/samvishnevskiy/IDX_Exchange_DS47/commit/7566136f4ac5ebcbd69d33507d37c1456248a1a9) covered data processing, spatial features, and model evaluation within the [team repository](https://github.com/samvishnevskiy/IDX_Exchange_DS47).
+
+The team's [saved January 2026 holdout results](https://github.com/samvishnevskiy/IDX_Exchange_DS47/blob/main/outputs/tables/model_results_2026-01.csv) report **XGBoost price R² of 0.8843**, with July–December 2025 training data. That result uses the project's price-trimming procedure on the test set. The later team notebook extends the model comparison; I do not claim sole implementation of those additions. These are saved modeling results, not evidence of a deployed valuation service or measured business uplift.
 
 ## Los Angeles H3 collision analysis
 
