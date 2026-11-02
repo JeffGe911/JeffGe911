@@ -1,10 +1,10 @@
 # Hi, I'm Jeff
 
-### Implementation & Forward Deployed Engineering
+### From business problems to useful products
 
-I'm passionate about turning business needs into software people can use. I enjoy working with teams to understand their workflows, build practical solutions, and make them reliable enough to hand over.
+I'm passionate about turning business needs into useful products and reliable systems. My work brings together business analysis, data science, product ownership, and hands-on engineering, from understanding a problem to building, evaluating, and improving a solution.
 
-**I'm seeking 2027 new graduate roles in technical implementation and forward deployed engineering.**
+**Open to 2027 new graduate opportunities across product, data, and technology.**
 
 USC M.S. Spatial Data Science, expected December 2026 · Los Angeles · Open to U.S. relocation and travel
 
@@ -20,14 +20,15 @@ I worked with Finance, Operations, and Sales to turn manufacturing data into usa
 
 I independently owned a wearable-monitoring backend from problem framing through **GCP deployment**, working with a mentor and downstream teammates. I connected OAuth enrollment, device-data ingestion, Python/SQL processing, and structured outputs, with checks for data quality and deployment behavior. Within the team's AI-CRM platform, I separately owned analytics and decision workflows. [Backend delivery](docs/professional-work.md#xhealth-wearable-monitoring-platform) · [Team contribution](docs/professional-work.md#xhealth-ai-crm-analytics--decision-layer)
 
-My economics and business-analysis background shaped how I understand requirements. These internships developed my implementation and delivery skills, which I now extend through AI applications and my own products.
+**DuoSky · 双辰 · Founder & Product Lead · August 2026 to present**
 
-## Selected AI & product projects
+I built a live trilingual product and own its scope, UX, interpretation policy, and release decisions. I use feedback and product analytics to prioritize changes, with regression checks to evaluate the experience. I also lead AI-assisted implementation and QA. [Live product](https://duosky.app) · [Product decisions & iteration](docs/duosky.md)
 
-| Project | What I built and owned | Explore |
-| --- | --- | --- |
-| **DuoSky · 双辰** | Founder & Product Lead of a live trilingual beta. I own product scope, UX, deterministic interpretation, AI-assisted implementation, QA, and release decisions. | [Live product](https://duosky.app) · [Case study](docs/duosky.md) |
-| **Local Qwen Engineering Assistant** | A personal local-LLM PoC for engineering tasks. I integrated the model, compared rules and model approaches, and evaluated guarded outputs on unseen cases. | [Code, evaluation & limitations](https://github.com/JeffGe911/qwen-coding-agent-poc) |
+My economics and business-analysis background taught me to start with the business question. At UNIM and xHealth Group, I connected requirements, data, and implementation. Through DuoSky, I also own product decisions, user experience, and iteration.
+
+## Applied AI example
+
+**Local Qwen Engineering Assistant:** a personal local-LLM PoC for engineering tasks. I integrated the model, compared rules, model-only, and hybrid approaches, and evaluated guarded outputs on unseen cases. [Code, evaluation & limitations](https://github.com/JeffGe911/qwen-coding-agent-poc)
 
 ## Explore all projects
 
@@ -39,4 +40,4 @@ The complete directory includes AIvestor, Health Pipeline Prototype, IDXExchange
 
 I use AI coding tools to accelerate implementation, with explicit acceptance criteria, independent review, regression checks, and human release decisions.
 
-Outside engineering, I make R&B, hip-hop, and soul as **JEdoubleF911**. [Explore both sides →](https://jeffge.dev)
+Outside work, I make R&B, hip-hop, and soul as **JEdoubleF911**. [Explore both sides →](https://jeffge.dev)
