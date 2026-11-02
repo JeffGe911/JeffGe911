@@ -1,35 +1,33 @@
 # Hi, I'm Jeff
 
-## Product Strategy, AI & Data | Founder @ DuoSky
+## I like building ambitious products with data and AI.
 
 **Open to 2027 full-time opportunities in Product, Data & AI.**
 
-**USC M.S. Spatial Data Science, expected December 2026** · Los Angeles · Open to U.S. relocation and travel
+**Founder @ DuoSky · USC M.S. Spatial Data Science, expected December 2026**
 
-**Building ambitious products at the intersection of technology and business.**
+Los Angeles · Open to U.S. relocation and travel
 
-I'm passionate about turning emerging technology into products and businesses that matter. I combine product thinking, data science, and hands-on execution to understand opportunities, make informed decisions, and bring ideas to life.
+I care about what people need, what we can learn from data, and getting good ideas into the real world.
 
-[Portfolio](https://jeffge.dev) · [LinkedIn](https://www.linkedin.com/in/jeff911) · [Email](mailto:jeff152152@gmail.com) · **[Full project directory →](PROJECTS.md)**
+[Portfolio](https://jeffge.dev) · [LinkedIn](https://www.linkedin.com/in/jeff911) · [Email](mailto:jeff152152@gmail.com) · **[All projects →](PROJECTS.md)**
 
-## Work at a glance
+## Things I've built
 
-- **UNIM Innovation · Data Science Intern · 2025:** I worked with Finance, Operations, and Sales to build reporting and planning tools. Reduced manual preparation of ERP-ready import files by approximately **90%**, built a **52-week capacity-planning tool**, and supported adoption with guides and training. [Delivery details](docs/professional-work.md#unim-operational-data-tools)
-- **xHealth Group · Summer AI Engineering Intern · 2026:** I owned a wearable-monitoring backend from problem framing through **GCP deployment**, working with a mentor and downstream teammates. Connected OAuth enrollment, ingestion, Python/SQL processing, and data-quality checks. Separately owned analytics and decision workflows within the team's AI-CRM platform. [Backend delivery](docs/professional-work.md#xhealth-wearable-monitoring-platform) · [Team contribution](docs/professional-work.md#xhealth-ai-crm-analytics--decision-layer)
-- **DuoSky · 双辰 · Founder & Product Lead:** I built a **live trilingual beta**, owning product scope, UX, and release decisions. I use feedback and product analytics to prioritize changes, alongside AI-assisted implementation and QA. [Live product](https://duosky.app) · [Product decisions & iteration](docs/duosky.md)
+- **UNIM Innovation · Data Science Intern · 2025:** built reporting and planning tools with Finance, Operations, and Sales. My Python workflow reduced manual preparation of ERP-ready import files by approximately **90%**. I also built sales dashboards and a **52-week planning tool**, with guides and staff training. [Work details](docs/professional-work.md#unim-operational-data-tools)
+- **xHealth Group · Summer AI Engineering Intern · 2026:** owned a wearable-monitoring backend through **GCP deployment**, working with a mentor and downstream teammates. The work covered OAuth, ingestion, Python/SQL processing, and data-quality checks. I separately owned analytics and decision workflows in the team's AI-CRM platform. [Backend](docs/professional-work.md#xhealth-wearable-monitoring-platform) · [Team contribution](docs/professional-work.md#xhealth-ai-crm-analytics--decision-layer)
+- **DuoSky · 双辰 · Founder & Product Lead:** a **live trilingual beta**. I own product scope, UX, and release decisions, using feedback and product analytics to guide iteration. [Try it](https://duosky.app) · [Product decisions](docs/duosky.md)
 
-My economics and business-analysis background shapes how I frame problems. UNIM and xHealth Group developed my data and engineering delivery skills; DuoSky brings together product judgment, implementation, and iteration.
+My path has taken me from economics and business analysis to data systems, AI applications, and product ownership.
 
-## More to explore
+## More projects
 
-**Local Qwen Engineering Assistant:** a personal local-LLM PoC covering model integration, rules/model/hybrid comparisons, and evaluation on unseen cases. [Code, evaluation & limitations](https://github.com/JeffGe911/qwen-coding-agent-poc)
+**Local Qwen Engineering Assistant:** a personal local-LLM PoC for engineering tasks, with model integration, rules/model/hybrid comparisons, and evaluation on unseen cases. [Code & evaluation](https://github.com/JeffGe911/qwen-coding-agent-poc)
 
-**[Products & web GIS](PROJECTS.md#products--web-gis)** · **[Analytics & quantitative finance](PROJECTS.md#analytics--quantitative-finance)** · **[Business & data systems](PROJECTS.md#business--data-systems)** · **[Applied AI & agents](PROJECTS.md#applied-ai--agents)**
+Browse the **[complete project directory](PROJECTS.md)**, including all eight public project repositories, professional work, and live products:
 
-The complete directory includes all eight public project repositories, additional professional work, and live products. Each entry identifies my contribution, project status, and where to explore it.
+[Products & web GIS](PROJECTS.md#products--web-gis) · [Data & business systems](PROJECTS.md#business--data-systems) · [Applied AI & agents](PROJECTS.md#applied-ai--agents) · [Analytics & quantitative finance](PROJECTS.md#analytics--quantitative-finance)
 
-**Core tools:** Python, SQL, PostgreSQL, FastAPI, JavaScript, GCP, Docker, Cloudflare Workers, and GitHub Actions, with model-evaluation and geospatial tools as needed.
+I work with Python, SQL, PostgreSQL, FastAPI, JavaScript, GCP, Docker, Cloudflare, and geospatial tools. AI coding tools help me build faster; I own acceptance criteria, reviews, testing, and release decisions.
 
-I use AI coding tools with explicit acceptance criteria, independent review, regression checks, and human release decisions.
-
-Outside work, I make R&B, hip-hop, and soul as **JEdoubleF911**. [Explore both sides →](https://jeffge.dev)
+I also make R&B, hip-hop, and soul as **JEdoubleF911**. [Explore both sides →](https://jeffge.dev)
