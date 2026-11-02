@@ -1,77 +1,42 @@
 # Hi, I'm Jeff
 
-### AI · Data · Product Builder
+### AI & Data Product Engineering
 
-I turn ambiguous requirements into systems that run. I have been working on connecting data pipelines, backend APIs, applied AI, and product experience. I've built healthcare monitoring infrastructure, automated semiconductor data workflows, and taken my own product from concept to a live beta.
+I turn business requirements into reliable data workflows and working products—from defining the problem to implementation, validation, and release.
 
 **USC M.S. Spatial Data Science, expected December 2026 · Los Angeles · Open to 2027 full-time roles**
 
-[Portfolio](https://jeffge.dev) · [LinkedIn](https://www.linkedin.com/in/jeff911) · [Email](mailto:jeff152152@gmail.com) · [DuoSky live](https://duosky.app)
+[Portfolio](https://jeffge.dev) · [LinkedIn](https://www.linkedin.com/in/jeff911) · [Email](mailto:jeff152152@gmail.com) · **[Full project directory →](PROJECTS.md)**
 
-**Explore my work:** [Product & UX — DuoSky](https://duosky.app) · [Data systems — Health Pipeline](https://github.com/JeffGe911/Health-Pipeline-Prototype) · [Agent workflows — AIvestor](https://github.com/JeffGe911/AIvestor-AuriteAI-Project)
+## How my work connects
 
-## Selected builds
+1. **Business & quantitative analysis:** an economics background and business-analysis experience shape how I clarify requirements, reporting definitions, and operational constraints.
+2. **Data & systems delivery:** at UNIM and xHealth, I translated those requirements into reusable automation, data pipelines, APIs, and cloud deployments.
+3. **Applied AI & product delivery:** my recent work combines model evaluation and agent workflows with independent product development, user feedback, and release decisions.
 
-### [DuoSky · 双辰](https://duosky.app) — Founder & Product Lead · August 2026–present
+My career direction is **Forward Deployed / Applied AI & Product Engineering**: working with people to understand a problem, build the solution, and help them use it.
 
-A live, trilingual BaZi × Western astrology product that turns birth details into layered, explainable readings and shareable birthplace portraits.
+## Selected work
 
-- Owned product scope, architecture, UX, validation, and release decisions; shipped on **Cloudflare Workers**.
-- Designed progressive input and reading depth: start with a birth date, add time and place for precision, and explicitly leave time-dependent conclusions open when birth time is unknown.
-- Built interactive chart explanations and side-by-side evidence comparisons, plus shareable portraits that omit names, birth dates, and raw birth times.
-- Built birthplace resolution covering **170,949 places across 246 countries and territories**, with historical timezone handling and 256 lazy-loaded data shards.
-- Added GIS-based city portraits and geometry fallbacks; built regression coverage across **720 chart profiles and 5,760 yearly cases**. These are test-coverage counts.
+| Project | What it demonstrates | My contribution & where to start |
+| --- | --- | --- |
+| **DuoSky · 双辰** | Taking a product from an idea to a live trilingual beta | Founder & Product Lead; product scope, UX, deterministic interpretation, QA, and Cloudflare delivery. **[Try it](https://duosky.app) · [Case study](docs/duosky.md)** |
+| **Local Qwen Engineering Assistant** | Applying a local LLM with explicit checks and measured tradeoffs | Model integration, rules/model comparisons, guarded outputs, and independent evaluation. **[Code & evaluation](https://github.com/JeffGe911/qwen-coding-agent-poc)** |
+| **Health Pipeline Prototype** | Turning noisy device readings into traceable outputs | Synthetic-data generation, validation, deduplication, time-series processing, and structured alerts. **[Public prototype](https://github.com/JeffGe911/Health-Pipeline-Prototype)** |
+| **AIvestor** | Connecting personal preferences to a team agent workflow | Built the User Preference and Portfolio Optimization modules in a five-person USC project. **[My modules & team project](https://github.com/JeffGe911/AIvestor-AuriteAI-Project)** |
 
-**JavaScript · Python · Cloudflare Workers · GIS · Automated QA**  
-[Try DuoSky](https://duosky.app)
+## Explore the full portfolio
 
-### [Health Pipeline Prototype](https://github.com/JeffGe911/Health-Pipeline-Prototype)
+**[Applied AI & agents](PROJECTS.md#applied-ai--agents)** · **[Business & data systems](PROJECTS.md#business--data-systems)** · **[Products & web GIS](PROJECTS.md#products--web-gis)** · **[Analytics & quantitative finance](PROJECTS.md#analytics--quantitative-finance)**
 
-A public, synthetic-data prototype demonstrating device-data validation, deduplication, time-series aggregation, layered anomaly detection, and prioritized alerts. Includes sensor faults, duplicates, gaps, and calibration drift.
+The directory includes all eight public project repositories, DuoSky and my portfolio site, and summaries of additional professional and spatial-analysis work.
 
-**Python · pandas · NumPy · SQLite**
+**Engineering experience:** xHealth Group, Summer AI Engineering Intern · UNIM Innovation, Data Science Intern · IDXExchange, Data Scientist (Internship). **[Work & technical case studies →](docs/professional-work.md)**
 
-### [AIvestor](https://github.com/JeffGe911/AIvestor-AuriteAI-Project)
-
-Built User Preference and Portfolio Optimization agents in a five-person multi-agent investment-research project, connecting macroeconomic data, market analysis, and personalized portfolio workflows with structured JSON/Markdown reporting.
-
-**Python · LangChain · LLM APIs · FRED · Agent orchestration**
-
-I also build spatial ML workflows: **H3-based Los Angeles crash-hotspot forecasting**, time-based model evaluation, and ArcGIS prediction maps.
-
-## Engineering in practice
-
-**xHealth Group — Summer AI Engineering Intern · June–August 2026**
-
-Owned an always-on wearable-monitoring platform from problem framing to GCP deployment: self-service OAuth, ingestion of 6+ biometric streams, canonical data models, scheduled processing, and explainable care-team alerts.
-
-- Migrated SQLite to PostgreSQL with **zero behavior drift across 398,802 synthetic evaluation readings and 166 alerts**, backed by row-level parity and a frozen evaluation fingerprint.
-- Built versioned JSON contracts for a four-project ecosystem, encrypted token storage, least-privilege access, and **300+ automated tests**, including checks inside the deployed container images.
-- Built the AI-CRM analytics and decision loop: scheduling → measurement → enrollment attribution → next-best actions → feedback, with organization-scoped APIs and small-cell privacy controls.
-- Researched personalized anomaly detection with cross-signal corroboration and conformal scoring, using patient-level splits and bootstrap confidence intervals. This was research evaluation, not a claim of clinical validation.
-
-**UNIM Innovation — Data Science Intern · June–August 2025**
-
-- Built reproducible Python/SQL workflows over **50K+ wafer-test samples and 270+ weekly batches**, supporting manufacturing analysis and forecasting.
-- Automated raw test-archive parsing into ERP-ready outputs, preserving lot, wafer, and BIN granularity; reduced manual processing by **~90%** and made the workflow usable by Finance and Operations.
-
-**IDXExchange — Data Scientist (Internship) · January–April 2026**
-
-Led a five-model comparison for California home-price prediction, using geospatial features and forward holdout validation; selected XGBoost with **R² = 0.8843**.
-
-## Tools I work with
-
-| Area | Toolkit |
-| --- | --- |
-| Data & backend | Python, SQL, PostgreSQL, pandas, SQLAlchemy, FastAPI |
-| Cloud & delivery | GCP, Cloud Run, Cloud SQL, Cloud Scheduler, Docker, GitHub Actions |
-| AI & ML | XGBoost, scikit-learn, LangChain, OpenAI / Anthropic APIs |
-| Product & spatial | JavaScript, React, GeoPandas, H3, ArcGIS Pro |
+**Core toolkit:** Python, SQL, PostgreSQL, FastAPI, JavaScript, GCP, Docker, Cloudflare Workers, GitHub Actions, scikit-learn, LangChain, and geospatial tools.
 
 I use Codex, Claude Code, and Cursor to accelerate implementation, with explicit acceptance criteria, independent review, regression checks, and human release decisions.
 
----
-
-**Let's build something useful.** I'm looking for roles in **Forward Deployed Engineering, Applied Data Science, and Associate Product Management (APM) / AI Product** starting in 2027. I'm also open to Data Engineering and applied AI roles focused on integrations and delivery, with flexibility for U.S. relocation and travel.
+I’m looking for 2027 opportunities centered on **technical implementation, applied AI, and product delivery**, with flexibility for U.S. relocation and travel.
 
 Outside engineering, I make R&B, hip-hop, and soul as **JEdoubleF911**. [Explore both sides →](https://jeffge.dev)
