@@ -1,6 +1,6 @@
 # DuoSky · 双辰
 
-**Founder & Product Lead · August 2026–present · Live public beta**
+**Founder & Product Lead · August 2026 to present · Live public beta**
 
 [Try DuoSky](https://duosky.app) · [Project directory](../PROJECTS.md) · [Profile](../README.md)
 
