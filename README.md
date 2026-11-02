@@ -2,7 +2,7 @@
 
 ### AI & Data Product Engineering
 
-I turn business requirements into reliable data workflows and working products—from defining the problem to implementation, validation, and release.
+I'm passionate about building useful AI and data products. I enjoy understanding what people need, turning those needs into working solutions, and improving them through testing and feedback.
 
 **USC M.S. Spatial Data Science, expected December 2026 · Los Angeles · Open to 2027 full-time roles**
 
