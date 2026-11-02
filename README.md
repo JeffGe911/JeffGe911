@@ -1,8 +1,10 @@
 # Hi, I'm Jeff
 
-### From business problems to useful products
+## Technology Entrepreneur | Product Strategy, AI & Data
 
-I'm passionate about turning business needs into useful products and reliable systems. My work brings together business analysis, data science, product ownership, and hands-on engineering, from understanding a problem to building, evaluating, and improving a solution.
+**Building ambitious products at the intersection of technology and business.**
+
+I'm passionate about turning emerging technology into products and businesses that matter. My work combines product strategy, data science, business analysis, and hands-on engineering, from identifying an opportunity to building, evaluating, and improving a solution.
 
 **Open to 2027 new graduate opportunities across product, data, and technology.**
 
