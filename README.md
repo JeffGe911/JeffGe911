@@ -1,42 +1,42 @@
 # Hi, I'm Jeff
 
-### AI & Data Product Engineering
+### Implementation & Forward Deployed Engineering
 
-I'm passionate about building useful AI and data products. I enjoy understanding what people need, turning those needs into working solutions, and improving them through testing and feedback.
+I'm passionate about turning business needs into software people can use. I enjoy working with teams to understand their workflows, build practical solutions, and make them reliable enough to hand over.
 
-**USC M.S. Spatial Data Science, expected December 2026 · Los Angeles · Open to 2027 full-time roles**
+**I'm seeking 2027 new graduate roles in technical implementation and forward deployed engineering.**
+
+USC M.S. Spatial Data Science, expected December 2026 · Los Angeles · Open to U.S. relocation and travel
 
 [Portfolio](https://jeffge.dev) · [LinkedIn](https://www.linkedin.com/in/jeff911) · [Email](mailto:jeff152152@gmail.com) · **[Full project directory →](PROJECTS.md)**
 
-## How my work connects
+## What I've delivered
 
-1. **Business & quantitative analysis:** an economics background and business-analysis experience shape how I clarify requirements, reporting definitions, and operational constraints.
-2. **Data & systems delivery:** at UNIM and xHealth, I translated those requirements into reusable automation, data pipelines, APIs, and cloud deployments.
-3. **Applied AI & product delivery:** my recent work combines model evaluation and agent workflows with independent product development, user feedback, and release decisions.
+**UNIM Innovation · Data Science Intern · June to August 2025**
 
-My career direction is **Forward Deployed / Applied AI & Product Engineering**: working with people to understand a problem, build the solution, and help them use it.
+I worked with Finance, Operations, and Sales to turn manufacturing data into usable reporting and planning tools. My Python workflow reduced manual preparation of ERP-ready import files by approximately **90%**. I also built sales dashboards and a **52-week capacity-planning tool**, then supported adoption with operating guides and staff training. [Work details](docs/professional-work.md#unim-operational-data-tools)
 
-## Selected work
+**xHealth Group · Summer AI Engineering Intern · June to August 2026**
 
-| Project | What it demonstrates | My contribution & where to start |
+I independently owned a wearable-monitoring backend from problem framing through **GCP deployment**, working with a mentor and downstream teammates. I connected OAuth enrollment, device-data ingestion, Python/SQL processing, and structured outputs, with checks for data quality and deployment behavior. Within the team's AI-CRM platform, I separately owned analytics and decision workflows. [Backend delivery](docs/professional-work.md#xhealth-wearable-monitoring-platform) · [Team contribution](docs/professional-work.md#xhealth-ai-crm-analytics--decision-layer)
+
+My economics and business-analysis background shaped how I understand requirements. These internships developed my implementation and delivery skills, which I now extend through AI applications and my own products.
+
+## Selected AI & product projects
+
+| Project | What I built and owned | Explore |
 | --- | --- | --- |
-| **DuoSky · 双辰** | Taking a product from an idea to a live trilingual beta | Founder & Product Lead; product scope, UX, deterministic interpretation, QA, and Cloudflare delivery. **[Try it](https://duosky.app) · [Case study](docs/duosky.md)** |
-| **Local Qwen Engineering Assistant** | Applying a local LLM with explicit checks and measured tradeoffs | Model integration, rules/model comparisons, guarded outputs, and independent evaluation. **[Code & evaluation](https://github.com/JeffGe911/qwen-coding-agent-poc)** |
-| **Health Pipeline Prototype** | Turning noisy device readings into traceable outputs | Synthetic-data generation, validation, deduplication, time-series processing, and structured alerts. **[Public prototype](https://github.com/JeffGe911/Health-Pipeline-Prototype)** |
-| **AIvestor** | Connecting personal preferences to a team agent workflow | Built the User Preference and Portfolio Optimization modules in a five-person USC project. **[My modules & team project](https://github.com/JeffGe911/AIvestor-AuriteAI-Project)** |
+| **DuoSky · 双辰** | Founder & Product Lead of a live trilingual beta. I own product scope, UX, deterministic interpretation, AI-assisted implementation, QA, and release decisions. | [Live product](https://duosky.app) · [Case study](docs/duosky.md) |
+| **Local Qwen Engineering Assistant** | A personal local-LLM PoC for engineering tasks. I integrated the model, compared rules and model approaches, and evaluated guarded outputs on unseen cases. | [Code, evaluation & limitations](https://github.com/JeffGe911/qwen-coding-agent-poc) |
 
-## Explore the full portfolio
+## Explore all projects
 
-**[Applied AI & agents](PROJECTS.md#applied-ai--agents)** · **[Business & data systems](PROJECTS.md#business--data-systems)** · **[Products & web GIS](PROJECTS.md#products--web-gis)** · **[Analytics & quantitative finance](PROJECTS.md#analytics--quantitative-finance)**
+**[Business & data systems](PROJECTS.md#business--data-systems)** · **[Applied AI & agents](PROJECTS.md#applied-ai--agents)** · **[Products & web GIS](PROJECTS.md#products--web-gis)** · **[Analytics & quantitative finance](PROJECTS.md#analytics--quantitative-finance)**
 
-The directory includes all eight public project repositories, DuoSky and my portfolio site, and summaries of additional professional and spatial-analysis work.
+The complete directory includes AIvestor, Health Pipeline Prototype, IDXExchange modeling, spatial-analysis and web GIS coursework, Formula 1 analysis, quantitative-finance projects, and my portfolio site. Each entry identifies my contribution, project status, and where to explore it.
 
-**Engineering experience:** xHealth Group, Summer AI Engineering Intern · UNIM Innovation, Data Science Intern · IDXExchange, Data Scientist (Internship). **[Work & technical case studies →](docs/professional-work.md)**
+**Tools I use:** Python, SQL, PostgreSQL, FastAPI, JavaScript, GCP, Docker, Cloudflare Workers, and GitHub Actions, with model-evaluation and geospatial tools as the problem requires.
 
-**Core toolkit:** Python, SQL, PostgreSQL, FastAPI, JavaScript, GCP, Docker, Cloudflare Workers, GitHub Actions, scikit-learn, LangChain, and geospatial tools.
-
-I use Codex, Claude Code, and Cursor to accelerate implementation, with explicit acceptance criteria, independent review, regression checks, and human release decisions.
-
-I’m looking for 2027 opportunities centered on **technical implementation, applied AI, and product delivery**, with flexibility for U.S. relocation and travel.
+I use AI coding tools to accelerate implementation, with explicit acceptance criteria, independent review, regression checks, and human release decisions.
 
 Outside engineering, I make R&B, hip-hop, and soul as **JEdoubleF911**. [Explore both sides →](https://jeffge.dev)
